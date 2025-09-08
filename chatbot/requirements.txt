@@ -1,0 +1,11 @@
+fastapi
+langchain
+langchain-community
+langchain_core
+langchain-google-vertexai>=0.1.2
+google-cloud-aiplatform>=1.66.0
+google-api-core>=2.19.0
+grpcio>=1.62.0
+grpcio-status>=1.62.0
+uvicorn[standard]
+unstructured[pdf]
